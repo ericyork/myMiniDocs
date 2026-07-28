@@ -1,7 +1,32 @@
 ---
-title: "myMiniDocs"
+title: "Welcome"
+toc: false
 ---
+# Content for Beginners
 
-This is a Quarto website.
+If you're lost, you're in the right place. There's a collection of articles in the left sidebar. Start at the top, and work your way down. To really learn, you'll want to follow along, rather than just read, so be prepared to do some typing!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Before Getting Started
+You'll want to take some initial steps to prepare your computer before you jump into installing the software in these articles.
+
+ + Make a complete backup of your computer (back up your files regularly)
+ + Know how to properly install and remove software
+ + Fully update your software (and keep it updated) 
+
+*NB*: You will be tempted to adopt poor maintanence hygiene regarding these items. That's up to you—but just know that at some point you *will* lose data because of it.
+
+## Hard Lessons
+
+Here are some things I've learned over the years.
+
+ + if you don't know what to do, ask for help
+ + if you don't know what something means, look it up
+ + if you don't know what you're doing, take precautions
+ + name and organize things as you go and as simply as you can
+ + all filenames should be lowercase and **no spaces!**
+ + type until your muscles remember, for your brain will forget
+ + if your code doesn't work, it's probably a typo in what you just wrote
+ + inspect properties and pay attention to size, location, format, etc.
+ + if you ever feel like it will be easy, you're missing something important
+ + if you ever feel sure you know the solution, you will surely need to think again
+

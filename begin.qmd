@@ -1,0 +1,23 @@
+---
+title: "Begin"
+---
+
+# How to Begin (for beginners)
+
+This will walk you through the main steps you should follow to get started. The menu at the left takes you to other help articles. The menu at the right will help you navigate this page.
+
+## GitHub sign up
+Visit github and sign up
+
+## Install VSCode
+Install and preview your dev environment
+
+## Install Extentions
+At least the github one, but probably others? Need to check on this
+
+## Install Firefox
+Really? Yes, please.
+
+
+
+

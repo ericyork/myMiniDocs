@@ -4,11 +4,11 @@ This repository contains the source files for a website created with [Quarto](ht
 
 ## Project structure
 
-* `_quarto.yml` — website and project configuration
-* `index.qmd` — home page
-* `about.qmd` — about page
-* `styles.css` — custom website styles
-* `_site/` — generated website output; not tracked in Git
+* `_quarto.yml` — configuration file
+* `index.qmd` — site home page
+* `$pages.qmd` — various site pages
+* `styles.css` — custom styles
+* `_site/` — generated output; not tracked
 
 ## Requirements
 
@@ -48,7 +48,7 @@ By default, the rendered site is written to the `_site` directory.
 
 ## Publishing
 
-The website can be published using GitHub Pages, Netlify, Posit Connect, or another static-site hosting service.
+The website can be published using GitHub Pages by pushing the contents of 
 
 ## License
 

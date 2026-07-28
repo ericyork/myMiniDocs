@@ -2,20 +2,45 @@ project:
   type: website
 
 website:
-  title: "myMiniDocs"
+  title: "Content Tech"
+  page-navigation: true
+  page-footer: 
+    background: primary
+    left: "&copy;2026, Eric J. York" 
+    center: "Built with [Quarto](https://quarto.org/docs/websites)"
+    right: 
+      - icon: github
+        href: https://github.com/ericyork
+
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: primary
+  
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Articles"
+      - text: "Welcome"
+        href: index.qmd
+      - begin.qmd
+      - deploy.qmd
+      - authoring.qmd
+      - shell.qmd
+      - homebrew.qmd
 
 format:
   html:
+    respect-user-color-scheme: true
+    page-layout: full
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    toc-location: right
+    fontsize: 22px
+
 
 
 
